@@ -1,7 +1,7 @@
 <h1>Olá, sou o Alisson! 👋</h1>
 
 ### 🚀 __Sobre mim__
-Sou graduado em Sistemas de Informação pela Faculdade Promove de Tecnologia e Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas <h1>
+Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas <h1>
 
 ### 🔗 __Links__ 
 [![linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alideives) <h1>
