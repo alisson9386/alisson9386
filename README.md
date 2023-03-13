@@ -41,7 +41,7 @@ Sou graduado em Sistemas de Informação pela Faculdade Promove de Tecnologia e 
 Projeto de Crud em Java Spring com Spring Security e autenticação JWT
 <br> 
 
-[![Projeto Crud Java Spring](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColorhttps://github.com/alisson9386/springrestapi)
+[![Projeto Crud Java Spring](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor(https://github.com/alisson9386/springrestapi)
 
 
 #### 🖥️ __Projeto Farmácia__
