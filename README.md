@@ -42,10 +42,13 @@ Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas, Desenvolvedor SW
 Projeto de Consumenr e Producer em Java Spring para produzir e consumir topicos de mensageria em Kafka
 <br> 
 
-Producer - [![Projeto Producer](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/spring-kafka-producer)
+### __Producer__
+[![Projeto Producer](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/spring-kafka-producer)
   
-Consumer - [![Projeto Consumer](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/spring-kafka-consumer)
+### __Consumer__
+[![Projeto Consumer](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/spring-kafka-consumer)
 
+<h1>
 
 #### 🖥️ __Projeto Crud Java Spring Security e JWT__
 Projeto de Crud em Java Spring com Spring Security e autenticação JWT
@@ -53,6 +56,7 @@ Projeto de Crud em Java Spring com Spring Security e autenticação JWT
 
 [![Projeto Crud Java Spring](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/springrestapi)
 
+<h1>
 
 #### 🖥️ __Projeto Farmácia__
 Um sistema de controle de farmácia desenvilvido em JAVA  <br> 
