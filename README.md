@@ -1,7 +1,7 @@
 <h1>Olá, sou o Alisson! 👋</h1>
 
 ### 🚀 __Sobre mim__
-Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas <h1>
+Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas, Desenvolvedor SW4 na empresa Sonda Mobility <h1>
 
 ### 🔗 __Links__ 
 [![linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alideives) <h1>
@@ -11,6 +11,7 @@ Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas <h1>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=nestjs&logoColor=DD0031)
 ![AngularJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
