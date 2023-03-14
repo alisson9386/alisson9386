@@ -37,6 +37,15 @@ Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas, Desenvolvedor SW
 <h1>
 
 ### __Principais Projetos__ 
+  
+#### 🖥️ __Projetos Consumer e Producer Java Spring + Kafka__
+Projeto de Consumenr e Producer em Java Spring para produzir e consumir topicos de mensageria em Kafka
+<br> 
+
+Producer - [![Projeto Producer](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/alisson9386/spring-kafka-producer)
+  
+Consumer - [![Projeto Consumer](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/alisson9386/spring-kafka-consumer)
+
 
 #### 🖥️ __Projeto Crud Java Spring Security e JWT__
 Projeto de Crud em Java Spring com Spring Security e autenticação JWT
@@ -55,8 +64,3 @@ Um sistema de controle de farmácia desenvilvido em JAVA  <br>
 Um sistema de Socket TCP chat em JAVA  <br> 
 
 [![Projeto SocketTCP](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/SocketTCP)
-
-
-
-https://github.com/alisson9386/springrestapi
-
