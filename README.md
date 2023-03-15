@@ -1,7 +1,7 @@
 <h1>Olá, sou o Alisson! 👋</h1>
 
 ### 🚀 __Sobre mim__
-Pós-Graduando em Desenvolvimento Web Fullstack pela PUC Minas, Desenvolvedor SW4 na empresa Sonda Mobility <h1>
+Pós-Graduando em Desenvolvimento Web Full Stack pela PUC Minas, Desenvolvedor SW4 na empresa Sonda Mobility <h1>
 
 ### 🔗 __Links__ 
 [![linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alideives) <h1>
