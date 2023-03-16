@@ -60,7 +60,7 @@ Projeto de Crud em Java Spring com Spring Security e autenticação JWT
 <h1>
 
 #### 🖥️ __Projeto Farmácia__
-Um sistema de controle de farmácia desenvilvido em JAVA  <br> 
+Um sistema de controle de farmácia desenvolvido em JAVA  <br> 
 
 [![Projeto Farmácia](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/SistemaFarmacia)
 
