@@ -50,6 +50,13 @@ Projeto de Consumenr e Producer em Java Spring para produzir e consumir topicos 
 [![Projeto Consumer](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/spring-kafka-consumer)
 
 <h1>
+  #### 🖥️ __Projeto Crud Java Spring e ReactJS__
+Projeto de Crud com Backend em Java Spring e Frontend em React JS, com notificações e validações com o SweetAlert
+<br> 
+
+[![Projeto Crud Java Spring e React](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/spring-react-java-crud)
+  
+<h1>
 
 #### 🖥️ __Projeto Crud Java Spring Security e JWT__
 Projeto de Crud em Java Spring com Spring Security e autenticação JWT
