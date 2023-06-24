@@ -38,6 +38,14 @@ Pós-Graduando em Desenvolvimento Web Full Stack pela PUC Minas, Desenvolvedor S
 <h1>
 
 ### __Principais Projetos__ 
+
+#### 🖥️ __Projeto NASA API ReactJS__
+Projeto de Crud com Backend em Java Spring e Frontend em React JS, com notificações e validações com o SweetAlert
+<br> 
+
+[![Projeto NASA API React](https://github.com/alisson9386/nasa-api)](https://github.com/alisson9386/nasa-api)
+  
+<h1>
   
 #### 🖥️ __Projetos Consumer e Producer Java Spring + Kafka__
 Projeto de Consumenr e Producer em Java Spring para produzir e consumir topicos de mensageria em Kafka
