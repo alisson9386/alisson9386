@@ -43,7 +43,7 @@ Pós-Graduando em Desenvolvimento Web Full Stack pela PUC Minas, Desenvolvedor S
 Projeto de Crud com Backend em Java Spring e Frontend em React JS, com notificações e validações com o SweetAlert
 <br> 
 
-[![Projeto NASA API React](https://github.com/alisson9386/nasa-api)](https://github.com/alisson9386/nasa-api)
+[![Projeto NASA API React](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson9386/nasa-api)
   
 <h1>
   
